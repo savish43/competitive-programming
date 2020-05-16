@@ -1,7 +1,5 @@
 package Beginner.Heap;
 
-/*
-Min Heap implementation Using Arrays/
 
 public class MinHeapImplementation {
 
