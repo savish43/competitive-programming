@@ -1,16 +1,7 @@
 package Beginner.Heap;
 
 /*
-Given a priority queue (max heap) and Q queries to be performed on priority queue. The task is to perform operations based on queries.
-1. p : query to push element (x, given with query) to priority_queue and print size.
-2. pp : query to pop element from priority_queue and print size.
-3. t : query to return top element of priority_queue, if empty -1 will be printed.
-
-Input Format:
-First line of input contains number of testcases T. For each testcase, first line of input contains Q queries. Next Q lines contains Q queries.
-
-
- */
+Min Heap implementation Using Arrays/
 
 public class MinHeapImplementation {
 
